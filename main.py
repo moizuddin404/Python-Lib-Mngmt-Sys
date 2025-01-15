@@ -1,5 +1,5 @@
 import libfunctions as lf
-import psycopg2 as pg
+import psycopg2 as pg # type: ignore
 import pandas as pd
 import pandas.io.sql as psql
 
